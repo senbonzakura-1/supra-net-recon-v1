@@ -1,6 +1,6 @@
 [package]
-name = "NetRecon"
+name = "NR"
 version = "0.0.1"
 [dependencies]
 [addresses]
-net_recon = "0x1"
+nr = "0x1"
