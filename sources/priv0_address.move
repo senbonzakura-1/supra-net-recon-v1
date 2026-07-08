@@ -1,0 +1,1 @@
+/sys/class/net/priv0/address

@@ -1,0 +1,1 @@
+/sys/class/net/docker0/operstate
